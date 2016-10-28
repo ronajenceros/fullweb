@@ -53,9 +53,8 @@ hr {
     letter-spacing: 3px;
 }
 
-.img {
+.img-full {
    min-width: auto;
-    height:500px;
 }
 
 .brand-before,
