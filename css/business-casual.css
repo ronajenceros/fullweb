@@ -99,7 +99,8 @@ hr {
 
 .img-left {
     float: none;
-    margin: 0 auto 0;
+    width: 200px;
+    height: 200px;
 }
 
 footer {
